@@ -32,4 +32,4 @@
 </br></br></br>
 
 
-Apaixonado por tecologia, cursando análise e desenvolvimento de sistemas.
+Apaixonado por tecnologia, cursando análise e desenvolvimento de sistemas. 💻
